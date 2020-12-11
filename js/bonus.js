@@ -12,7 +12,7 @@ if (question === 'Enrico') {
 if (question === 'Ottavio') {
   text.style.backgroundColor = 'black';
   text.style.color = 'white';
-  text.append('\nCiao Ottavio, ti dedico un caro underscore');
+  text.append('\nTi dedico un caro underscore');
   text.append('\n_');
 } else {
   text.append('\nIn teoria questo è un eserczio che Alfredo o Enrico controllano, ');
